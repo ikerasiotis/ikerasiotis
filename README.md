@@ -21,7 +21,8 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 
 
 <br></br>
-![ikerasiotis's GitHub stats](https://github-readme-stats-ikerasiotis.vercel.app/api?username=ikerasiotis&show_icons=true&hide=stars,issues&count_private=true&theme=github_dark&show_owner=true) [![Top Langs](https://github-readme-stats-ikerasiotis.vercel.app/api/top-langs/?username=ikerasiotis&theme=github&count_private=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats-ikerasiotis.vercel.app/api?username=ikerasiotis&count_private=true&hide=issues&hide_border=true)](https://github.com/ikerasiotis#gh-light-mode-only) [![Top Langs](https://github-readme-stats-ikerasiotis.vercel.app/api/top-langs/?username=ikerasiotis&hide=html&layout=compact&hide_border=true)](https://github.com/ikerasiotis#gh-light-mode-only)
+[![My stats](https://github-readme-stats-ikerasiotis.vercel.app/api?username=ikerasiotis&count_private=true&hide=issues&theme=dark&bg_color=22272e&hide_border=true)](https://github.com/ikerasiotis#gh-dark-mode-only) [![Top Langs](https://github-readme-stats-ikerasiotis.vercel.app/api/top-langs/?username=ikerasiotis&hide=html&layout=compact&theme=dark&bg_color=22272e&hide_border=true)](https://github.com/ikerasiotis#gh-dark-mode-only)
 
 
 
