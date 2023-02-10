@@ -1,17 +1,25 @@
-# Hello world! 👋 
-\
-🙋 My name is Ioannis!\
-\
-🇬🇷 Lives In Athens \
-😄 Pronouns: He/Him \
-🧑‍🏫 Javascript & ReactJS Enthusiast \
-\
-🥷 Ninja Coder\
-🧑‍💻 Currently working on @ [i-DOCS](https://i-docs.com) \
-🤑 Future Billionaire or... \
-🪐 Jedi Master \
-\
-📫 How to reach me: 
+# Welcome to Ioannis's GitHub!
+
+## Who Am I?
+I'm Ioannis, a full-stack developer based in Athens, Greece. I'm a Javascript and ReactJS enthusiast, always eager to learn and explore new technologies.
+
+## Skills & Expertise
+- Proficient in ReactJS, Javascript, HTML, CSS and related technologies
+- Experience in developing and deploying web applications using REST APIs and GraphQL
+- Knowledge of both RDBMS (MySQL and PostgreSQL) and NoSQL (MongoDB) databases
+- Skilled in mobile development with React Native
+- Experienced in working with Git and Agile/Scrum methodology
+
+## Current Work
+I am currently working as a front-end developer at [i-DOCS](https://www.i-docs.com/), where I'm responsible for designing and developing web applications.
+
+## Freelance Experience
+I have worked as a freelancer, completing projects for international students including sites built with WordPress, more complex web applications and fixing bugs. Additionally, I have participated in two long-term projects, developing softphones and chat applications using ReactJS for the front end and Loopback3 for the back end.
+
+## Future Goals
+I'm always seeking new challenges and opportunities to grow as a developer. My ultimate goal is to become a billionaire or a Jedi Master! 😄
+
+Thank you for visiting my GitHub profile!
 
 <a href="mailto:kerasiotisioannis@gmail.com" target="_blank">![gmail](
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;&nbsp;&nbsp;
@@ -24,23 +32,3 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 [![My stats](https://github-readme-stats-ikerasiotis.vercel.app/api?username=ikerasiotis&count_private=true&hide=issues&hide_border=true)](https://github.com/ikerasiotis#gh-light-mode-only) [![Top Langs](https://github-readme-stats-ikerasiotis.vercel.app/api/top-langs/?username=ikerasiotis&hide=html&layout=compact&hide_border=true)](https://github.com/ikerasiotis#gh-light-mode-only)
 [![My stats](https://github-readme-stats-ikerasiotis.vercel.app/api?username=ikerasiotis&count_private=true&hide=issues&theme=dark&bg_color=22272e&hide_border=true)](https://github.com/ikerasiotis#gh-dark-mode-only) [![Top Langs](https://github-readme-stats-ikerasiotis.vercel.app/api/top-langs/?username=ikerasiotis&hide=html&layout=compact&theme=dark&bg_color=22272e&hide_border=true)](https://github.com/ikerasiotis#gh-dark-mode-only)
 
-
-
-
-<!--[![gmail](
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerasiotisioannis@gmail.com){:target="_blank"}
-
-<!--
-**ikerasiotis/ikerasiotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
