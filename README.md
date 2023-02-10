@@ -19,7 +19,8 @@ I have worked as a freelancer, completing projects for international students in
 ## Future Goals
 I'm always seeking new challenges and opportunities to grow as a developer. My ultimate goal is to become a billionaire or a Jedi Master! 😄
 
-Thank you for visiting my GitHub profile!
+
+## Contact
 
 <a href="mailto:kerasiotisioannis@gmail.com" target="_blank">![gmail](
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;&nbsp;&nbsp;
@@ -32,3 +33,4 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 [![My stats](https://github-readme-stats-ikerasiotis.vercel.app/api?username=ikerasiotis&count_private=true&hide=issues&hide_border=true)](https://github.com/ikerasiotis#gh-light-mode-only) [![Top Langs](https://github-readme-stats-ikerasiotis.vercel.app/api/top-langs/?username=ikerasiotis&hide=html&layout=compact&hide_border=true)](https://github.com/ikerasiotis#gh-light-mode-only)
 [![My stats](https://github-readme-stats-ikerasiotis.vercel.app/api?username=ikerasiotis&count_private=true&hide=issues&theme=dark&bg_color=22272e&hide_border=true)](https://github.com/ikerasiotis#gh-dark-mode-only) [![Top Langs](https://github-readme-stats-ikerasiotis.vercel.app/api/top-langs/?username=ikerasiotis&hide=html&layout=compact&theme=dark&bg_color=22272e&hide_border=true)](https://github.com/ikerasiotis#gh-dark-mode-only)
 
+Thank you for visiting my GitHub profile!
