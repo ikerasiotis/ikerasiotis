@@ -11,7 +11,7 @@ I'm Ioannis, a full-stack developer based in Athens, Greece. I'm a Javascript an
 - Experienced in working with Git and Agile/Scrum methodology
 
 ## Current Work
-I am currently working as a front-end developer at [i-DOCS](https://www.i-docs.com/), where I'm responsible for designing and developing web applications.
+I am currently working as a front-end developer at [Code.Hub](https://codehub.gr/), where I'm responsible for designing and developing web applications.
 
 ## Freelance Experience
 I have worked as a freelancer, completing projects for international students including sites built with WordPress, more complex web applications and fixing bugs. Additionally, I have participated in two long-term projects, developing softphones and chat applications using ReactJS for the front end and Loopback3 for the back end.
